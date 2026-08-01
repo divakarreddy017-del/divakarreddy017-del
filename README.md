@@ -108,7 +108,7 @@
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/divakarreddy017-del">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -119,7 +119,7 @@
 ## 💡 Quote
 
 > **"Without data, you're just another person with an opinion."**  
-> — W. Edwards Deming
+> — Divakar Reddy
 
 ---
 
