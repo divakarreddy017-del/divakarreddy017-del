@@ -1,155 +1,136 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Divakar Reddy</h1>
+<h3 align="center">📊 Data Analyst | Python | SQL | Power BI | Tableau</h3>
 
-# Hi 👋, I'm Divakar Reddy
-
-### 📊 Data Analyst | Python • SQL • Power BI • Tableau
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+Developer;SQL+Enthusiast;Power+BI+%7C+Tableau;Turning+Data+Into+Insights" />
-
----
-
-### 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/sai-krishna-divakar-reddy-mallidi-baba23230/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:divakarmallidi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-🎯 Passionate Data Analyst who enjoys transforming raw data into meaningful insights.
-
-- 📊 Data Cleaning & Analysis
-- 📈 Interactive Dashboard Development
-- 🤖 Machine Learning using Scikit-Learn
-- 🗄 SQL Database Analysis
-- 📉 Business Intelligence Reporting
-- 📚 Always learning new Data Science & AI tools
-
----
-
-# 🚀 Tech Stack
-
-## Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=00C4CC&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights;Always+Learning+New+Things" />
 </p>
 
-## Python Libraries
+---
 
-<p>
+## 🚀 About Me
+
+🔹 Passionate **Data Analyst** with expertise in extracting meaningful insights from complex datasets.
+
+🔹 I enjoy building dashboards, automating workflows, and applying Machine Learning to solve real-world problems.
+
+🔹 Currently improving my skills in:
+- Advanced Machine Learning
+- Data Engineering
+- Cloud Analytics
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+</p>
+
+### 📊 Data Analytics
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-## Data Analytics
-
-<p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Activity Graph
+## 📊 Contribution Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
-
-### 📊 Sales Dashboard
-- Power BI dashboard for KPI tracking and business insights.
-
-### 📈 Customer Churn Prediction
-- Machine Learning model using Scikit-Learn.
-
-### 🛒 SQL Retail Analysis
-- Advanced SQL queries for sales and customer analysis.
-
-### 📉 Excel Dashboard
-- Interactive dashboard with Power Query and Pivot Tables.
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 💡 Quote
+## 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-<div align="center">
+## 💡 Quote
 
-### 👀 Profile Views
+> **"Without data, you're just another person with an opinion."**  
+> — W. Edwards Deming
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+---
 
-### ⭐ Thanks for visiting!
+<p align="center">
 
-*"Without data, you're just another person with an opinion."*  
-— divakar reddy
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-</div>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
